@@ -4,4 +4,6 @@
 <br>
 以管理員身份運行Autoinst.bat即可
 <br>
+記得雙擊“.theme”文件安裝
+<br>
 玩的愉快~
